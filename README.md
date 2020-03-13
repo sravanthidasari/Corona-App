@@ -2,4 +2,5 @@
 A weekend project for the General Assembly Waverider SEI.
 
 Collaborators:
-Nathanael Fletcher
+* Nathanael Fletcher
+* Scott Draper
